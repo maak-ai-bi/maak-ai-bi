@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I’m Maak-ai-bi!
 
-<!--
-**maak-ai-bi/maak-ai-bi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate Computer Science student learning to master:
+- 🐍 Python programming
+- 📊 Power BI dashboards & analytics
+- 🤖 Machine Learning & AI tools
+- 💻 Git & GitHub for version control
+- 📱 Flutter app development (beginner level)
 
-Here are some ideas to get you started:
+### 🚀 My Current Goals:
+- Complete job-ready Python + BI projects
+- model taining
+- on journey to become ai dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach Me At:
+- ✉️ Email: [ayabahmedkhan@gmail.com]
+  
+
+---
+
+> “Code is poetry. Repos are my rhyme.” 🎧
